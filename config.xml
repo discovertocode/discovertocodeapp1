@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.discovertocode.app"
+    versionCode = "10"
+    version     = "0.0.1" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Discovertocode App</name>
+  <description>
+      The Best App To Discover To Code.
+  </description>
+
+  <author href="http://discovertocode.com" email="webmaster@discovertocode.com">
+      Pedro Torres Nico Malang TJ
+  </author>
+
+</widget>
